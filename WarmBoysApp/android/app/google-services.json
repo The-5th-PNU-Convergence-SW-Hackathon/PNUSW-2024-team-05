@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "1013800782452",
+    "project_id": "warmguys-3af1c",
+    "storage_bucket": "warmguys-3af1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013800782452:android:604742819fb29f2440df21",
+        "android_client_info": {
+          "package_name": "com.example.warmBoys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAzQ6-niYX8dyeUmKaMULP6pR36BXvqvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013800782452:android:6b694d5f52ac44c840df21",
+        "android_client_info": {
+          "package_name": "com.example.warmboys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAzQ6-niYX8dyeUmKaMULP6pR36BXvqvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013800782452:android:a5aa144657dcab8d40df21",
+        "android_client_info": {
+          "package_name": "com.warmBoys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAzQ6-niYX8dyeUmKaMULP6pR36BXvqvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013800782452:android:37921aec22bc048940df21",
+        "android_client_info": {
+          "package_name": "com.warmboy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAzQ6-niYX8dyeUmKaMULP6pR36BXvqvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013800782452:android:f708dcfb6423220440df21",
+        "android_client_info": {
+          "package_name": "com.warmboys.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAzQ6-niYX8dyeUmKaMULP6pR36BXvqvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
