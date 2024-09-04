@@ -387,14 +387,14 @@ $ git clone https://github.com/Inside-Out-Pusan-univ/Inside-Out
 ### 5. 소개 및 시연영상
 [<img width="700px" alt="소개 및 시연영상" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/162132cd-9af5-4154-9b9a-41c96cf5e8fd" />](https://www.youtube.com/watch?v=cqtVVS2wZlI)
 
-<br/>
 
 ### 5. 소개 및 시연영상
 [<img width="700px" alt="소개 및 시연영상" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/162132cd-9af5-4154-9b9a-41c96cf5e8fd" />](https://www.youtube.com/watch?v=EfEgTrm5_u4)
 
-<br/>
 
 ### 6.👨‍💻 팀 소개
+
+<br/>
 ![image](https://github.com/user-attachments/assets/f6383606-456f-4561-842c-5d782fa0cffe)
 
 ‘인사이드아웃’ 팀은 기획 인력 2명, 개발 인력 4명으로 구성되어 있습니다.
@@ -415,9 +415,10 @@ IT 프로덕트 스타트업에서 마케팅 PM으로 근무한 경험을 토대
 <br/>
 
 
-<br/>
+
 ### 7. 해커톤 참여 후기
 
+<br/>
 
 - 하석현
   > 처음으로 우리 아이디어로 직접 어플을 만들어보는 경험은 앞으로의 개발자 경험에도 큰 도움울 줄 수 있을 것 같습니다. 아주 유익한 시간이었고, 앞으로도 더 좋은 개발자가 될 수 있도록 노력하겠습니다.
