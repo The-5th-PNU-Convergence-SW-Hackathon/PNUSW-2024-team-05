@@ -390,9 +390,9 @@ $ git clone https://github.com/Inside-Out-Pusan-univ/Inside-Out
 
 ### 6.👨‍💻 팀 소개
 
-<br/>
 ![image](https://github.com/user-attachments/assets/f6383606-456f-4561-842c-5d782fa0cffe)
 
+<br/>
 ‘인사이드아웃’ 팀은 기획 인력 2명, 개발 인력 4명으로 구성되어 있습니다.
 개발팀은 전원 의생명융합공학부 데이터사이언스 20학번 전공생으로 이루어져 있으며, 백엔드 개발자인 하석현 팀원과 백원재 팀원, 
 프론트엔드 개발자인 김도형 팀원과 김예준 팀원으로 구성되어 있습니다.
